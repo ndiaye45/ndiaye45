@@ -29,9 +29,11 @@
 
 ### 📊 GitHub Statistics
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ndiaye45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=ndiaye45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     alt="GitHub Statistics"
     height="180"
   />
