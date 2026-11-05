@@ -40,6 +40,26 @@
 </p>
 
 
+---
+
+<h2 align="center">💻 Languages & Contributions</h2>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ndiaye45&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ndiaye45&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+
 ### 📌 Featured Projects
 
 - **[Savings](https://github.com/ndiaye45/Savings)** — Personal savings management application built with Spring Boot.
