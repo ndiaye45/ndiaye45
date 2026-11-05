@@ -37,14 +37,6 @@
     alt="GitHub Statistics"
     height="180"
   />
-</p>
-
-
----
-
-<h2 align="center">💻 Languages & Contributions</h2>
-
-<p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=ndiaye45&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
