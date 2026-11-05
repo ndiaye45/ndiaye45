@@ -119,7 +119,7 @@ Interested in contributing to real-world projects while developing my skills in 
 
 ### 📫 Contact
 
-- 🌐 Portfolio: [My Portfolio](yousndiaye.netlify.app)
+- 🌐 Portfolio: [My Portfolio](https://yousndiaye.netlify.app)
 - 💻 GitHub: [@ndiaye45](https://github.com/ndiaye45)
 
 ### 📫 Contact
