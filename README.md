@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.png"
+  <img src="github-banner.png"
        alt="Papa Youssou Ndiaye - Backend Developer, AI Enthusiast, Security, Devops"
        width="100%">
 </p>
