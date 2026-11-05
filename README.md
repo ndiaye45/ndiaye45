@@ -1,14 +1,12 @@
-<p align="center">
-  <img src="github-banner.png"
-       alt="Papa Youssou Ndiaye - Backend Developer, AI Enthusiast, Security, Devops"
-       width="100%">
-</p>
-
 # 👋 Hi, I'm Papa Youssou Ndiaye
 
 ### Backend Developer | Java & Spring Boot
 
-🎓 Master's student in Computer Science — ARIAS  
+<p align="center">
+  <img src="github-banner.png" alt="Papa Youssou Ndiaye - Backend Developer, AI Enthusiast, Security, DevOps" width="100%">
+</p>
+
+🎓 Master's student in Computer Science — ARIAS, University of Orléans  
 💻 Interested in Backend Development, Distributed Systems, AI and Cybersecurity  
 🚀 Building applications with Java, Spring Boot and PostgreSQL
 
@@ -18,12 +16,11 @@
 
 - **Languages:** Java, Python, SQL
 - **Backend:** Spring Boot, REST APIs, Spring Security
-- **Databases:** PostgreSQL
+- **Frontend:** Angular, JavaFX, Flutter, PHP, HTML, CSS, JavaScript
+- **Databases:** PostgreSQL, MySQL, Firebase Firestore
 - **Tools:** Git, GitHub, Docker, Maven
 - **Testing:** JUnit 5, Mockito
-
----
-
+- **Other:** Machine Learning, JWT, CI/CD
 
 ---
 
@@ -50,6 +47,8 @@
     alt="GitHub Streak"
   />
 </p>
+
+---
 
 ### 🚀 Featured Projects
 
@@ -93,6 +92,18 @@
 - User registration for available courses.
 - User account management (first name, last name, email and phone number).
 - Server-side development with PHP and interactive frontend using HTML, CSS and JavaScript.
+
+---
+
+### 🎓 Education
+
+**Master's Degree in Computer Science — ARIAS**  
+Université d'Orléans, France  
+*Applications réparties, Intelligence artificielle et sécurité*
+
+**Bachelor's Degree in Computer Science**  
+Université de Limoges, France
+
 ---
 
 ### 📫 Contact
