@@ -1,134 +1,217 @@
+# PAPA YOUSSOU NDIAYE
 
-<p align="center">
-  <img src="./assets/portrait-animated.svg"
-       alt="PAPA YOUSSOU NDIAYE - ASCII Portrait"
-       width="700">
-</p>
+<div align="center">
 
-# 👋 Hi, I'm Papa Youssou Ndiaye
+<img src="./github-banner.png" width="100%" alt="Papa Youssou Ndiaye — Backend, AI, Security, DevOps"/>
 
-### Backend Developer | Java & Spring Boot
+### `BACKEND DEVELOPER` · `AI ENTHUSIAST` · `DEVOPS` · `CYBERSECURITY`
 
-<p align="center">
-  <img src="github-banner.png" alt="Papa Youssou Ndiaye - Backend Developer, AI Enthusiast, Security, DevOps" width="100%">
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=ndiaye45&color=39d353&style=flat-square&label=PROFILE+VIEWS)
 
-🎓 Master's student in Computer Science — ARIAS, University of Orléans  
-💻 Interested in Backend Development, Distributed Systems, AI and Cybersecurity  
-🚀 Building applications with Java, Spring Boot and PostgreSQL
+</div>
 
 ---
 
-### 🛠️ Technologies
+## `whoami`
 
-- **Languages:** Java, Python, SQL
-- **Backend:** Spring Boot, REST APIs, Spring Security
-- **Frontend:** Angular, JavaFX, Flutter, PHP, HTML, CSS, JavaScript
-- **Databases:** PostgreSQL, MySQL, Firebase Firestore
-- **Tools:** Git, GitHub, Docker, Maven
-- **Testing:** JUnit 5, Mockito
-- **Other:** Machine Learning, JWT, CI/CD
+```bash
+┌──(ndiaye45㉿github)-[~]
+└─$ whoami
 
----
+Papa Youssou Ndiaye
+Master's student in Computer Science — ARIAS
+Université d'Orléans, France
 
-### 📊 GitHub Statistics
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=ndiaye45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="GitHub Statistics"
-    height="180"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ndiaye45&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ndiaye45&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+> Backend Development
+> Distributed Systems
+> Artificial Intelligence
+> Cybersecurity
+> DevOps & Automation
+```
 
 ---
 
-### 🚀 Featured Projects
+## `./contributions.sh`
 
-#### 1. [Savings](https://github.com/ndiaye45/Savings)
-**Personal Savings Management — Spring Boot**
-- Backend REST API with Spring Boot.
-- User authentication and JWT security.
-- PostgreSQL database integration.
-- Docker containerization and GitHub Actions CI.
+<div align="center">
 
-#### 2. [Service Management](https://github.com/ndiaye45/Service-management)
-**Service Marketplace — Spring Boot & Angular**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ndiaye45&theme=github-compact&bg_color=050807&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+
+</div>
+
+---
+
+## `./ascii-portrait.sh`
+
+<div align="center">
+
+<img src="./assets/portrait-animated.svg" width="700" alt="Animated ASCII portrait of Papa Youssou Ndiaye"/>
+
+</div>
+
+---
+
+## `./system-stats.sh`
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=ndiaye45&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&bg_color=050807&title_color=39d353&icon_color=39d353" height="180" alt="GitHub Statistics"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ndiaye45&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050807&title_color=39d353" height="180" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=ndiaye45&theme=dark&hide_border=true&background=050807&ring=39d353&fire=39d353&currStreakLabel=39d353" width="70%" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## `./tech-stack.sh`
+
+### `BACKEND`
+
+![Java](https://img.shields.io/badge/Java-39d353?style=for-the-badge&logo=openjdk&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-39d353?style=for-the-badge&logo=springboot&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-39d353?style=for-the-badge&logo=postgresql&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_APIs-39d353?style=for-the-badge&logo=fastapi&logoColor=black)
+![Spring Security](https://img.shields.io/badge/Spring_Security-39d353?style=for-the-badge&logo=springsecurity&logoColor=black)
+
+### `DEVOPS & TOOLS`
+
+![Docker](https://img.shields.io/badge/Docker-39d353?style=for-the-badge&logo=docker&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-39d353?style=for-the-badge&logo=githubactions&logoColor=black)
+![Git](https://img.shields.io/badge/Git-39d353?style=for-the-badge&logo=git&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-39d353?style=for-the-badge&logo=linux&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-39d353?style=for-the-badge&logo=apachemaven&logoColor=black)
+
+### `AI & DATA`
+
+![Python](https://img.shields.io/badge/Python-39d353?style=for-the-badge&logo=python&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-39d353?style=for-the-badge&logo=scikitlearn&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-39d353?style=for-the-badge&logo=postgresql&logoColor=black)
+
+### `FRONTEND & MOBILE`
+
+![Angular](https://img.shields.io/badge/Angular-39d353?style=for-the-badge&logo=angular&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-39d353?style=for-the-badge&logo=flutter&logoColor=black)
+![JavaFX](https://img.shields.io/badge/JavaFX-39d353?style=for-the-badge&logo=java&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-39d353?style=for-the-badge&logo=php&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-39d353?style=for-the-badge&logo=firebase&logoColor=black)
+
+### `TESTING`
+
+![JUnit](https://img.shields.io/badge/JUnit_5-39d353?style=for-the-badge&logo=junit5&logoColor=black)
+![Mockito](https://img.shields.io/badge/Mockito-39d353?style=for-the-badge&logo=mockito&logoColor=black)
+
+---
+
+## `./projects.sh`
+
+### `01` — [Savings](https://github.com/ndiaye45/Savings)
+
+**Personal Savings Management · Spring Boot**
+
+- REST API for personal savings management.
+- Authentication and JWT security.
+- PostgreSQL integration.
+- Docker containerization.
+- GitHub Actions CI.
+
+### `02` — [Service Management](https://github.com/ndiaye45/Service-management)
+
+**Service Marketplace · Spring Boot & Angular**
+
 - REST API for clients and service providers.
-- User management and service requests.
+- Service requests and user management.
 - JWT authentication and authorization.
-- Angular frontend and PostgreSQL database.
+- Angular frontend and PostgreSQL.
 
-#### 3. [ImageLib](https://github.com/ndiaye45/imagelib-javafx)
-**Image Management Application — JavaFX**
+### `03` — [ImageLib](https://github.com/ndiaye45/imagelib-javafx)
+
+**Image Management Application · JavaFX**
+
 - Image processing and transformation pipeline.
-- Metadata management using JSON and text files.
-- Machine learning-based image tag suggestions.
-- K-means clustering for dominant color extraction.
+- JSON and text-based metadata management.
+- ML-based image tag suggestions.
+- K-means dominant color extraction.
 - Automated tests with JUnit 5.
 
-#### 4. AP Santé — Physical Fitness Assessment
-**Flutter · Dart · Firebase · fl_chart · PDF**
-- Mobile application developed for students at the University of Limoges, in collaboration with SUAPS and the Student Health Service.
-- User registration and authentication with Firebase Authentication.
-- User profiles with BMI calculation and a 9-question physical activity questionnaire.
-- 9 fitness tests across 4 categories: endurance, strength, balance and flexibility.
-- Scoring system based on age and gender, with radar chart visualization.
-- Personalized recommendations based on overall performance.
-- PDF report generation and data storage with Cloud Firestore.
+### `04` — AP Santé
 
-#### 5. [Couture For Fun](https://github.com/ndiaye45/coutureforfunL2project)
-**Sewing Workshop Website — PHP · MySQL · HTML · CSS · JavaScript**
-- Dynamic website developed as part of a second-year Bachelor's degree project.
-- MySQL database with three tables: courses, registrations and users.
-- Course catalog with titles, descriptions and images.
-- User registration for available courses.
-- User account management (first name, last name, email and phone number).
-- Server-side development with PHP and interactive frontend using HTML, CSS and JavaScript.
+**Physical Fitness Assessment · Flutter & Firebase**
+
+- Mobile application developed for the University of Limoges with SUAPS and Student Health Services.
+- Firebase Authentication and Cloud Firestore.
+- BMI calculation and physical activity questionnaire.
+- 9 fitness tests across 4 categories.
+- Radar chart visualization and personalized recommendations.
+- PDF report generation.
+
+### `05` — [Couture For Fun](https://github.com/ndiaye45/coutureforfunL2project)
+
+**Sewing Workshop Website · PHP & MySQL**
+
+- Dynamic workshop and course catalog.
+- User registration and account management.
+- MySQL database integration.
+- Interactive frontend using HTML, CSS and JavaScript.
 
 ---
 
-### 🎓 Education
+## `./education.sh`
 
-**Master's Degree in Computer Science — ARIAS**  
-Université d'Orléans, France  
+**Master's Degree in Computer Science — ARIAS**
+
+Université d'Orléans, France
+
 *Applications réparties, Intelligence artificielle et sécurité*
 
-**Bachelor's Degree in Computer Science**  
+**Bachelor's Degree in Computer Science**
+
 Université de Limoges, France
 
 ---
 
-### 🎯 Looking for an Internship
+## `./opportunities.sh`
 
-Currently looking for a **4–6 month internship starting January 2027** in:
-- Backend Development (Java / Spring Boot)
-- Software Engineering
-- Distributed Systems
+```bash
+STATUS: OPEN_TO_INTERNSHIP
+POSITION: Backend Developer / Software Engineer
+DURATION: 4–6 MONTHS
+START: JANUARY 2027
 
-Interested in contributing to real-world projects while developing my skills in backend architecture, software security and cloud technologies.
+FOCUS:
+  - Java / Spring Boot
+  - Software Engineering
+  - Distributed Systems
+  - Backend Architecture
+  - Security
+```
+
+Currently looking for an internship where I can contribute to real-world software projects while strengthening my skills in backend architecture, distributed systems and software security.
 
 ---
 
-### 📫 Contact
+## `./contact.sh`
 
-- 🌐 Portfolio: [My Portfolio](https://yousndiaye.netlify.app)
-- 💻 GitHub: [@ndiaye45](https://github.com/ndiaye45)
+<div align="center">
 
-### 📫 Contact
+[![Portfolio](https://img.shields.io/badge/Portfolio-39d353?style=for-the-badge&logo=googlechrome&logoColor=black)](https://yousndiaye.netlify.app)
 
-- GitHub: [@ndiaye45](https://github.com/ndiaye45)
+[![GitHub](https://img.shields.io/badge/GitHub-39d353?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ndiaye45)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║           SYSTEM STATUS: ONLINE                    ║
+║           BUILDING • LEARNING • INNOVATING          ║
+╚══════════════════════════════════════════════════════╝
+```
+
+**`while(alive) { code(); learn(); innovate(); }`**
+
+</div>
