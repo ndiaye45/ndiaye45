@@ -106,6 +106,22 @@ Université de Limoges, France
 
 ---
 
+### 🎯 Looking for an Internship
+
+Currently looking for a **4–6 month internship starting January 2027** in:
+- Backend Development (Java / Spring Boot)
+- Software Engineering
+- Distributed Systems
+
+Interested in contributing to real-world projects while developing my skills in backend architecture, software security and cloud technologies.
+
+---
+
+### 📫 Contact
+
+- 🌐 Portfolio: [My Portfolio](yousndiaye.netlify.app)
+- 💻 GitHub: [@ndiaye45](https://github.com/ndiaye45)
+
 ### 📫 Contact
 
 - GitHub: [@ndiaye45](https://github.com/ndiaye45)
