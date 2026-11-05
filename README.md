@@ -24,7 +24,7 @@
 - **[Service Management](https://github.com/ndiaye45/Service-management)** — REST API for a service marketplace.
 - **[ImageLib](https://github.com/ndiaye45/imagelib-javafx)** — JavaFX image management application with image processing features.
 - **AP Santé** — Android application in the healthcare domain.
-- **Couture For Fun** — Application project dedicated to sewing.
+- **[Couture For Fun](https://github.com/ndiaye45/coutureforfunL2project)** — Application project dedicated to sewing.
 
 ---
 
