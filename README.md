@@ -24,6 +24,20 @@
 
 ---
 
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ndiaye45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Statistics"
+    height="180"
+  />
+</p>
+
+
 ### 📌 Featured Projects
 
 - **[Savings](https://github.com/ndiaye45/Savings)** — Personal savings management application built with Spring Boot.
