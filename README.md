@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Papa Youssou Ndiaye
 
-<!--
-**ndiaye45/ndiaye45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Java & Spring Boot
 
-Here are some ideas to get you started:
+🎓 Master's student in Computer Science — ARIAS  
+💻 Interested in Backend Development, Distributed Systems, AI and Cybersecurity  
+🚀 Building applications with Java, Spring Boot and PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies
+
+- **Languages:** Java, Python, SQL
+- **Backend:** Spring Boot, REST APIs, Spring Security
+- **Databases:** PostgreSQL
+- **Tools:** Git, GitHub, Docker, Maven
+- **Testing:** JUnit 5, Mockito
+
+---
+
+### 📌 Featured Projects
+
+- **[Savings](https://github.com/ndiaye45/Savings)** — Personal savings management application built with Spring Boot.
+- **[Service Management](https://github.com/ndiaye45/Service-management)** — REST API for a service marketplace.
+- **[ImageLib](https://github.com/ndiaye45/imagelib-javafx)** — JavaFX image management application with image processing features.
+- **AP Santé** — Android application in the healthcare domain.
+- **Couture For Fun** — Application project dedicated to sewing.
+
+---
+
+### 📫 Contact
+
+- GitHub: [@ndiaye45](https://github.com/ndiaye45)
