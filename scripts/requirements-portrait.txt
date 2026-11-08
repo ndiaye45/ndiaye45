@@ -1,0 +1,6 @@
+# Portrait ASCII : uniquement en local, quand on change de photo (inutile pour le workflow).
+-r requirements.txt
+pillow
+numpy
+opencv-python
+rembg

@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+# photo d'origine et version préparée : à ne pas versionner (seul le SVG généré l'est)
+source-photo.*
+source-prepped.png

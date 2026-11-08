@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="632" height="668" viewBox="0 0 632 668" role="img" aria-label="ASCII portrait placeholder">
+<style>text{font:13px ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace;fill:#8b949e}</style>
+<rect x=".5" y=".5" width="631" height="667" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="316" y="300" text-anchor="middle">$ python scripts/prep_photo.py source-photo.jpg</text><text x="316" y="322" text-anchor="middle">$ python scripts/make_ascii_svg.py</text><text x="316" y="344" text-anchor="middle"></text><text x="316" y="366" text-anchor="middle"># portrait in progress...</text>
+</svg>
