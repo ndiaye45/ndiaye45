@@ -1,11 +1,11 @@
 {
  "user": "ndiaye45",
- "from": "2025-11-16",
- "to": "2026-11-21",
- "total": 93,
- "active_days": 22,
- "current_streak": 13,
- "longest_streak": 13,
+ "from": "2025-11-23",
+ "to": "2026-11-22",
+ "total": 94,
+ "active_days": 23,
+ "current_streak": 14,
+ "longest_streak": 14,
  "best_day": {
   "date": "2026-03-13",
   "count": 20
@@ -23,44 +23,9 @@
   "2026-08": 0,
   "2026-09": 0,
   "2026-10": 29,
-  "2026-11": 42
+  "2026-11": 43
  },
  "days": [
-  {
-   "date": "2025-11-16",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-17",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-18",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-19",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-20",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-21",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-22",
-   "level": 0,
-   "count": 0
-  },
   {
    "date": "2025-11-23",
    "level": 0,
@@ -1878,6 +1843,11 @@
   },
   {
    "date": "2026-11-21",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-11-22",
    "level": 0,
    "count": 0
   }
