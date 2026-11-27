@@ -1,11 +1,11 @@
 {
  "user": "ndiaye45",
  "from": "2025-11-23",
- "to": "2026-11-26",
- "total": 98,
- "active_days": 27,
- "current_streak": 18,
- "longest_streak": 18,
+ "to": "2026-11-27",
+ "total": 99,
+ "active_days": 28,
+ "current_streak": 19,
+ "longest_streak": 19,
  "best_day": {
   "date": "2026-03-13",
   "count": 20
@@ -23,7 +23,7 @@
   "2026-08": 0,
   "2026-09": 0,
   "2026-10": 29,
-  "2026-11": 47
+  "2026-11": 48
  },
  "days": [
   {
@@ -1868,6 +1868,11 @@
   },
   {
    "date": "2026-11-26",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-11-27",
    "level": 0,
    "count": 0
   }
